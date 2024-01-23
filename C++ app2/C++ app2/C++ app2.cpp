@@ -60,11 +60,5 @@ int main()
         {
             exit(0);
         }
-        else
-        {
-            cout << "Введите от 1 до 9\n\n";
-
-            main();
-        }
     }
 }
