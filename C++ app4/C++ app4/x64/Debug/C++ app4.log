@@ -1,0 +1,25 @@
+﻿  C++ app4.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(2213,24): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\SystemX\source\repos\C++ app4\C++ app4\C++ app4.cpp(20,22): message : выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::remove_if<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,No_glass::<lambda_1>>(_FwdIt,const _FwdIt,_Pr)"
+          with
+          [
+              _FwdIt=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Elem=wchar_t,
+              _Pr=No_glass::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(6316,19): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(2209,30): message : выполняется компиляция ссылки на экземпляр шаблон функции "_InIt std::find_if<wchar_t*,_Fn>(_InIt,const _InIt,_Pr)"
+          with
+          [
+              _InIt=wchar_t *,
+              _Fn=No_glass::<lambda_1>,
+              _Pr=No_glass::<lambda_1>
+          ]
+C:\Users\SystemX\source\repos\C++ app4\C++ app4\C++ app4.cpp(20,22): message : выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::remove_if<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,No_glass::<lambda_1>>(_FwdIt,const _FwdIt,_Pr)"
+          with
+          [
+              _FwdIt=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Elem=wchar_t,
+              _Pr=No_glass::<lambda_1>
+          ]
+  C++ app4.vcxproj -> C:\Users\SystemX\source\repos\C++ app4\x64\Debug\C++ app4.exe
