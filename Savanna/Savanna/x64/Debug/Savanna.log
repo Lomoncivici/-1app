@@ -1,0 +1,5 @@
+﻿  Savanna.cpp
+C:\Users\SystemX\source\repos\Savanna\Savanna\Savanna.cpp(245,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SystemX\source\repos\Savanna\Savanna\Savanna.cpp(277,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\SystemX\source\repos\Savanna\Savanna\Savanna.cpp(278,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Savanna.vcxproj -> C:\Users\SystemX\source\repos\Savanna\x64\Debug\Savanna.exe
