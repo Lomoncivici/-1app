@@ -1,0 +1,2 @@
+#define STRINGCHECKER_API __declspec(dllexport)
+#define STRINGCHECKER_API __declspec(dllimport)
